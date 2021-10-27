@@ -15,7 +15,7 @@
                                     <h2>Easy To Start Your <span>Business.</span></h2>
                                 </div>
                                 <p>Lorem Ipsum is simply dummy text printing typesetting industry. orem Ipsum has been the industry.</p>
-                                <n-link to="/service" class="btn btn-theme btn-theme-color2">All Services <i class="icon icofont-long-arrow-right"></i></n-link>
+                                <n-link to="/servicos" class="btn btn-theme btn-theme-color2">Todos Serviços <i class="icon icofont-long-arrow-right"></i></n-link>
                             </div>
                             <div class="layer-style">
                                 <div class="thumb">
@@ -109,9 +109,9 @@
         </div>
         <div class="home-slider-sidebar" data-aos="fade-zoom-in" data-aos-duration="1300">
             <div class="social-icon">
-                <a href="#"><i class="icofont-facebook"></i></a>
-                <a href="#"><i class="icofont-skype"></i></a>
-                <a href="#"><i class="icofont-twitter"></i></a>
+                <a href="#"><i class="icofont-linkedin"></i></a>
+                <a href="#"><i class="icofont-youtube"></i></a>
+                <a href="#"><i class="icofont-github"></i></a>
             </div>
         </div>
     </section>

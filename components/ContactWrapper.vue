@@ -51,7 +51,7 @@
                                                 <img src="/images/shape/line-s4.png" alt="shape">
                                                 <h5 class="text-light">Contato</h5>
                                             </div>
-                                            <h2 class="title text-light">Entrar Em <span>Contato.</span></h2>
+                                            <h2 class="title text-light">Entrar Em <span>Contato</span></h2>
                                             <div class="separator-line">
                                                 <img src="/images/shape/line-s4.png" alt="shape">
                                                 <img src="/images/shape/line-s4.png" alt="shape">

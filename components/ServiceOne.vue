@@ -35,22 +35,22 @@
                 services: [
                     {
                         icon: "/images/icons/s1.png",
-                        title: "Web Development",
+                        title: "Desenvolvedor Web",
                         desc: "Lorem Ipsum is simply dummy text the printing and typesetting industry has been the industry's standard."
                     },
                     {
                         icon: "/images/icons/s2.png",
-                        title: "Market Analysis",
+                        title: "Análise de Mercado",
                         desc: "Lorem Ipsum is simply dummy text the printing and typesetting industry has been the industry's standard."
                     },
                     {
                         icon: "/images/icons/s3.png",
-                        title: "Brand Identity",
+                        title: "Identidade da Marca",
                         desc: "Lorem Ipsum is simply dummy text the printing and typesetting industry has been the industry's standard."
                     },
                     {
                         icon: "/images/icons/s4.png",
-                        title: "Business Consultation",
+                        title: "Consulta de Negócios",
                         desc: "Lorem Ipsum is simply dummy text the printing and typesetting industry has been the industry's standard."
                     },
                     {
@@ -60,7 +60,7 @@
                     },
                     {
                         icon: "/images/icons/s6.png",
-                        title: "UX & UI Design",
+                        title: "UX & UI Designer",
                         desc: "Lorem Ipsum is simply dummy text the printing and typesetting industry has been the industry's standard."
                     },
                 ]

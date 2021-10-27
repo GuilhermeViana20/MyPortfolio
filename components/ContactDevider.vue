@@ -7,14 +7,14 @@
                         <div class="section-title">
                             <div class="subtitle-content">
                                 <img src="/images/shape/line1.png" alt="shape">
-                                <h5>Contact Us.</h5>
+                                <h5>Entre em Contato</h5>
                             </div>
-                            <h2 class="title">Contact Us For Any Information of <span class="bottom-style">Company.</span></h2>
+                            <h2 class="title">Contate-me para promover o <span class="bottom-style">seu negócio.</span></h2>
                         </div>
                     </div>
                 </div>
                 <div class="col-md-3 col-lg-4 text-left text-md-right">
-                    <n-link to="/contact" class="btn btn-theme" data-aos="fade-up" data-aos-duration="1100">Contact Now <i class="icon icofont-long-arrow-right"></i></n-link>
+                    <n-link to="/contato" class="btn btn-theme" data-aos="fade-up" data-aos-duration="1100">Entrar Em Contato <i class="icon icofont-long-arrow-right"></i></n-link>
                 </div>
             </div>
         </div>

@@ -15,9 +15,9 @@
         </div>
         <div class="page-sidebar" data-aos="fade-right" data-aos-duration="1100">
             <div class="social-icon">
-                <a href="#"><i class="icofont-facebook"></i></a>
-                <a href="#"><i class="icofont-skype"></i></a>
-                <a href="#"><i class="icofont-twitter"></i></a>
+                <a href="#"><i class="icofont-linkedin"></i></a>
+                <a href="#"><i class="icofont-youtube"></i></a>
+                <a href="#"><i class="icofont-github"></i></a>
             </div>
         </div>
         <div class="layer-shape">
