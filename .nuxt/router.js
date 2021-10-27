@@ -19,70 +19,80 @@ const emptyFn = () => {}
 Vue.use(Router)
 
 export const routerOptions = {
-  mode: 'history',
-  base: '/',
-  linkActiveClass: 'nuxt-link-active',
-  linkExactActiveClass: 'active',
-  scrollBehavior,
+	mode: 'history',
+	base: '/',
+	linkActiveClass: 'nuxt-link-active',
+	linkExactActiveClass: 'active',
+	scrollBehavior,
 
-  routes: [{
-    path: "/about",
-    component: _0bc7e47e,
-    name: "about"
-  }, {
-    path: "/blog",
-    component: _35ba479e,
-    name: "blog"
-  }, {
-    path: "/blog-details",
-    component: _11dbf493,
-    name: "blog-details"
-  }, {
-    path: "/contato",
-    component: _34671458,
-    name: "contact"
-  }, {
-    path: "/project",
-    component: _a9510f66,
-    name: "project"
-  }, {
-    path: "/project-details",
-    component: _6bddf37c,
-    name: "project-details"
-  }, {
-    path: "/service",
-    component: _706bc5e9,
-    name: "service"
-  }, {
-    path: "/service-details",
-    component: _2a3bf7de,
-    name: "service-details"
-  }, {
-    path: "/",
-    component: _19d3e886,
-    name: "index"
-  }],
+	routes: [
+		{
+			path: "/sobre",
+			component: _0bc7e47e,
+			name: "about"
+		},
+		{
+			path: "/blog",
+			component: _35ba479e,
+			name: "blog"
+		},
+		{
+			path: "/blog-details",
+			component: _11dbf493,
+			name: "blog-details"
+		},
+		{
+			path: "/contato",
+			component: _34671458,
+			name: "contact"
+		},
+		{
+			path: "/project",
+			component: _a9510f66,
+			name: "project"
+		},
+		{
+			path: "/project-details",
+			component: _6bddf37c,
+			name: "project-details"
+		},
+		{
+			path: "/servicos",
+			component: _706bc5e9,
+			name: "service"
+		},
+		{
+			path: "/service-details",
+			component: _2a3bf7de,
+			name: "service-details"
+		},
+		{
+			path: "/",
+			component: _19d3e886,
+			name: "index"
+		}
+	],
 
-  fallback: false
+	fallback: false
 }
 
 export function createRouter (ssrContext, config) {
-  const base = (config._app && config._app.basePath) || routerOptions.base
-  const router = new Router({ ...routerOptions, base  })
+	const base = (config._app && config._app.basePath) || routerOptions.base
+	const router = new Router({ ...routerOptions, base  })
 
-  // TODO: remove in Nuxt 3
-  const originalPush = router.push
-  router.push = function push (location, onComplete = emptyFn, onAbort) {
-    return originalPush.call(this, location, onComplete, onAbort)
-  }
+	// TODO: remove in Nuxt 3
+	const originalPush = router.push
+	router.push = function push (location, onComplete = emptyFn, onAbort) {
+		return originalPush.call(this, location, onComplete, onAbort)
+	}
 
-  const resolve = router.resolve.bind(router)
-  router.resolve = (to, current, append) => {
-    if (typeof to === 'string') {
-      to = normalizeURL(to)
-    }
-    return resolve(to, current, append)
-  }
+	const resolve = router.resolve.bind(router)
+	router.resolve = (to, current, append) => {
+		if (typeof to === 'string') {
+			to = normalizeURL(to)
+		}
+		return resolve(to, current, append)
+	}
 
-  return router
+	return router
 }

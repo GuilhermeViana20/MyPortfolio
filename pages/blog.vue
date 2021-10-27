@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <PageTitle title="Blog Post" breadcrumbTitle="Blog" />
+        <PageTitle title="Blog" breadcrumbTitle="Blog" />
 
         <BlogWrapper />
 

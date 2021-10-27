@@ -11,9 +11,9 @@
                             <p>Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum has industry's standard dummy text ever printer took a galley.</p>
                             <div class="widget-newsletter">
                                 <form>
-                                    <input type="email" class="form-control" placeholder="Enter your email">
+                                    <input type="email" class="form-control" placeholder="Digite Seu E-mail">
                                     <button type="submit" class="btn btn-theme">
-                                        Subscribe Now <i class="icon icofont-long-arrow-right"></i>
+                                        Inscreva-se Agora <i class="icon icofont-long-arrow-right"></i>
                                     </button>
                                 </form>
                             </div>
@@ -22,28 +22,26 @@
                 </div>
                 <div class="col-md-8 col-lg-6 col-xl-6">
                     <div class="widget-item menu-wrap-two-column">
-                        <h4 class="widget-title">All Services</h4>
+                        <h4 class="widget-title">Serviços</h4>
                         <img class="line-shape" src="/images/shape/line-s1.png" alt="shape">
                         <nav class="widget-menu-wrap">
                             <div class="row">
                                 <div class="col-md-6">
                                     <ul class="nav-menu nav">
-                                        <li><n-link to="/service-details">Business Management</n-link></li>
-                                        <li><n-link to="/service-details">Web Development</n-link></li>
-                                        <li><n-link to="/service-details">Business Consultation</n-link></li>
-                                        <li><n-link to="/service-details">Digital Marketing</n-link></li>
-                                        <li><n-link to="/service-details">Brand Identity</n-link></li>
-                                        <li><n-link to="/service-details">Insurance & Banking</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
                                     </ul>
                                 </div>
                                 <div class="col-md-6">
                                     <ul class="nav-menu nav">
-                                        <li><n-link to="/service-details">Website Optimization</n-link></li>
-                                        <li><n-link to="/service-details">Social Media Marketing</n-link></li>
-                                        <li><n-link to="/service-details">Link Building Services</n-link></li>
-                                        <li><n-link to="/service-details">Pay Per Click Advertising</n-link></li>
-                                        <li><n-link to="/service-details">Search Engine Marketing</n-link></li>
-                                        <li><n-link to="/service-details">Content Marketing</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
+                                        <li><n-link to="/service-details">LP - Network Secure</n-link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -52,16 +50,15 @@
                 </div>
                 <div class="col-md-4 col-lg-2 col-xl-2 lg-pr-0">
                     <div class="widget-item menu-wrap-column">
-                        <h4 class="widget-title">Useful Links</h4>
+                        <h4 class="widget-title">Links Rápidos</h4>
                         <img class="line-shape" src="/images/shape/line-s1.png" alt="Virtuf-HasTech">
                         <nav class="widget-menu-wrap">
                             <ul class="nav-menu nav">
-                                <li><n-link to="/">Group Profile</n-link></li>
-                                <li><n-link to="/">Vision & Values</n-link></li>
-                                <li><n-link to="/">Company History</n-link></li>
-                                <li><n-link to="/">Careers</n-link></li>
-                                <li><n-link to="/">Winning Awards</n-link></li>
-                                <li><n-link to="/">Sustainability</n-link></li>
+                                <li><n-link to="/">Home</n-link></li>
+                                <li><n-link to="/">Sobre</n-link></li>
+                                <li><n-link to="/">Serviços</n-link></li>
+                                <li><n-link to="/">Blog</n-link></li>
+                                <li><n-link to="/">Contato</n-link></li>
                             </ul>
                         </nav>
                     </div>
@@ -74,13 +71,12 @@
                     <div class="row align-items-center">
                         <div class="col-md-6 order-2 order-md-1">
                             <div class="widget-copyright">
-                                <p>© 2021 <span>VIRTUF</span> Made with <i class="icofont-heart"></i> by <a href="#">HasThemes</a></p>
+                                <p>© 2021 <span>Guilherme Viana</span> <i class="icofont-heart"></i></p>
                             </div>
                         </div>
                         <div class="col-md-6 order-1 order-md-2">
                             <div class="widget-social-icons">
-                                <a href="#"><i class="icofont-facebook"></i></a>
-                                <a href="#"><i class="icofont-skype"></i></a>
+                                <a href="#"><i class="icofont-linkedin"></i></a>
                                 <a href="#"><i class="icofont-instagram"></i></a>
                                 <a href="#"><i class="icofont-twitter"></i></a>
                             </div>

@@ -5,7 +5,7 @@
 
         <OffCanvasMobileMenu />
 
-        <PageTitle title="About Us" breadcrumbTitle="About" />
+        <PageTitle title="Sobre" breadcrumbTitle="Sobre" />
 
         <FeatureList />
 
@@ -51,7 +51,7 @@
 
         head() {
             return {
-                title: 'About'
+                title: 'Sobre'
             }
         },
     };
