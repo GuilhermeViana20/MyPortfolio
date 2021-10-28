@@ -109,7 +109,7 @@
         </div>
         <div class="home-slider-sidebar" data-aos="fade-zoom-in" data-aos-duration="1300">
             <div class="social-icon">
-                <a href="#"><i class="icofont-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/guilherme-viana-b6078a190/"><i class="icofont-linkedin"></i></a>
                 <a href="#"><i class="icofont-youtube"></i></a>
                 <a href="#"><i class="icofont-github"></i></a>
             </div>

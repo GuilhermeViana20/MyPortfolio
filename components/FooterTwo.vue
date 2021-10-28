@@ -8,7 +8,7 @@
                             <n-link to="/" class="footer-logo">
                                 <img src="/images/logo/logo.png" alt="Logo">
                             </n-link>
-                            <p>Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum has industry's standard dummy text ever printer took a galley.</p>
+                            <p>Sou Técnico em Informática pela Escola Estadual de Ensino Profissional Dona Creusa do Carmo Rocha, me formei em 2019 e no momento trabalho como desenvolvedor web júnior...</p>
                             <div class="widget-newsletter">
                                 <form>
                                     <input type="email" class="form-control" placeholder="Digite Seu E-mail">
@@ -76,7 +76,7 @@
                         </div>
                         <div class="col-md-6 order-1 order-md-2">
                             <div class="widget-social-icons">
-                                <a href="#"><i class="icofont-linkedin"></i></a>
+                                <a href="https://www.linkedin.com/in/guilherme-viana-b6078a190/"><i class="icofont-linkedin"></i></a>
                                 <a href="#"><i class="icofont-instagram"></i></a>
                                 <a href="#"><i class="icofont-twitter"></i></a>
                             </div>
